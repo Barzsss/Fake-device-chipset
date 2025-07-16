@@ -1,0 +1,65 @@
+Snapdragon 8 Gen 3
+Snapdragon 8+ Gen 2
+Snapdragon 8 Gen 2
+Snapdragon 8+ Gen 1
+Snapdragon 8 Gen 1
+Snapdragon 7+ Gen 2
+Snapdragon 7 Gen 1
+Snapdragon 6 Gen 1
+Snapdragon 870
+Snapdragon 865
+Dimensity 9300
+Dimensity 9200
+Dimensity 9000+
+Dimensity 9000
+Dimensity 8300
+Dimensity 8200
+Dimensity 8100
+Dimensity 1080
+Dimensity 7200
+Exynos 2500
+Exynos 2400
+Exynos 2200
+Tensor G4
+Tensor G3
+Kirin 9010
+Kirin 9000S
+Kirin 9000
+Apple A18 Pro
+Apple A17 Pro
+Apple A16 Bionic
+Apple A15 Bionic
+Helio G99
+Helio G96
+Helio G85
+Unisoc T820
+Unisoc T760
+Snapdragon 778G
+Snapdragon 750G
+Snapdragon 695
+Snapdragon 732G
+Snapdragon 480+
+Dimensity 700
+Exynos 2100
+Tensor G2
+Kirin 990
+Snapdragon 855+
+Snapdragon 855
+Snapdragon 845
+Snapdragon 768G
+Snapdragon 765G
+Snapdragon 730G
+Snapdragon 712
+Dimensity 1200
+Dimensity 1100
+Dimensity 820
+Dimensity 800U
+Dimensity 700U
+Exynos 1080
+Exynos 980
+Exynos 9611
+Kirin 980
+Kirin 970
+Helio P95
+Helio P90
+Helio P70
